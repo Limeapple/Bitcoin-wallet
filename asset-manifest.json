@@ -1,13 +1,13 @@
 {
-  "main.css": "/Clock/static/css/main.6c081820.chunk.css",
-  "main.js": "/Clock/static/js/main.be22b3b8.chunk.js",
-  "main.js.map": "/Clock/static/js/main.be22b3b8.chunk.js.map",
-  "runtime~main.js": "/Clock/static/js/runtime~main.01fd917b.js",
-  "runtime~main.js.map": "/Clock/static/js/runtime~main.01fd917b.js.map",
-  "static/js/2.0381fd13.chunk.js": "/Clock/static/js/2.0381fd13.chunk.js",
-  "static/js/2.0381fd13.chunk.js.map": "/Clock/static/js/2.0381fd13.chunk.js.map",
-  "index.html": "/Clock/index.html",
-  "precache-manifest.a7148e985dc9231e3421a8bf5e23c6ae.js": "/Clock/precache-manifest.a7148e985dc9231e3421a8bf5e23c6ae.js",
-  "service-worker.js": "/Clock/service-worker.js",
-  "static/css/main.6c081820.chunk.css.map": "/Clock/static/css/main.6c081820.chunk.css.map"
+  "main.css": "/Blockchain/static/css/main.6c081820.chunk.css",
+  "main.js": "/Blockchain/static/js/main.be22b3b8.chunk.js",
+  "main.js.map": "/Blockchain/static/js/main.be22b3b8.chunk.js.map",
+  "runtime~main.js": "/Blockchain/static/js/runtime~main.da55e216.js",
+  "runtime~main.js.map": "/Blockchain/static/js/runtime~main.da55e216.js.map",
+  "static/js/2.0381fd13.chunk.js": "/Blockchain/static/js/2.0381fd13.chunk.js",
+  "static/js/2.0381fd13.chunk.js.map": "/Blockchain/static/js/2.0381fd13.chunk.js.map",
+  "index.html": "/Blockchain/index.html",
+  "precache-manifest.8fc52777424a59a7a66bd3debc9a4e94.js": "/Blockchain/precache-manifest.8fc52777424a59a7a66bd3debc9a4e94.js",
+  "service-worker.js": "/Blockchain/service-worker.js",
+  "static/css/main.6c081820.chunk.css.map": "/Blockchain/static/css/main.6c081820.chunk.css.map"
 }
